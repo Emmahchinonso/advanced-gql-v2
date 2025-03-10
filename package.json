@@ -10,9 +10,11 @@
     "test": "jest tests"
   },
   "devDependencies": {
+    "@types/jest": "^29.5.14",
     "apollo-server-testing": "^2.9.6",
     "jest": "^24.9.0",
     "mdx-deck": "^3.0.13",
+    "node-pre-gyp": "^0.17.0",
     "nodemon": "^1.19.4"
   },
   "dependencies": {

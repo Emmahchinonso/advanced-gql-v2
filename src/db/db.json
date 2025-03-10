@@ -8,8 +8,180 @@
       "avatar": "http",
       "createdAt": 1571213104370,
       "id": "Z2hlvDmLOSRZGebC_Z_aA"
+    },
+    {
+      "email": "chinonso@mail.com",
+      "password": "12345",
+      "role": "ADMIN",
+      "verified": false,
+      "avatar": "http",
+      "createdAt": 1739916957435,
+      "id": "U9b9Y-1cqy3xwM1bXvQQ7"
+    },
+    {
+      "email": "nonso@mail.com",
+      "password": "12345",
+      "role": "ADMIN",
+      "verified": false,
+      "avatar": "http",
+      "createdAt": 1740167622535,
+      "id": "1S3HD7GXYsNAVmzTJ94bw"
+    },
+    {
+      "email": "crafts@mail.com",
+      "password": "12345",
+      "role": "ADMIN",
+      "verified": false,
+      "avatar": "http",
+      "createdAt": 1740167808845,
+      "id": "tfm6zj39Vr3XZEOeixgV7"
+    },
+    {
+      "email": "man1@mail.com",
+      "password": "12345",
+      "role": "ADMIN",
+      "verified": false,
+      "avatar": "http",
+      "createdAt": 1741351999422,
+      "id": "dodT2FUCxxys9UJwQZd8i"
+    },
+    {
+      "email": "man2@mail.com",
+      "password": "12345",
+      "role": "MEMBER",
+      "verified": false,
+      "avatar": "http",
+      "createdAt": 1741625139041,
+      "id": "UJr8yp1bYivN9XS6Vexv1"
     }
   ],
-  "posts": [],
+  "posts": [
+    {
+      "message": "This is good news",
+      "author": "U9b9Y-1cqy3xwM1bXvQQ7",
+      "createdAt": 1740161876644,
+      "id": "kBaq23k2gxDjGaLjKKkEO"
+    },
+    {
+      "message": "This is good news",
+      "author": "U9b9Y-1cqy3xwM1bXvQQ7",
+      "createdAt": 1740162021242,
+      "id": "QUH0WrYlruod2pCuO-x5t"
+    },
+    {
+      "message": "This is good news",
+      "author": "U9b9Y-1cqy3xwM1bXvQQ7",
+      "createdAt": 1740162100240,
+      "id": "_Avtvk0OgoHrLt6C_rwBl"
+    },
+    {
+      "message": "This is good news",
+      "author": "U9b9Y-1cqy3xwM1bXvQQ7",
+      "createdAt": 1740162359952,
+      "id": "_MUvY6CngvH-1SH5FFYPE"
+    },
+    {
+      "message": "This is good news",
+      "author": "U9b9Y-1cqy3xwM1bXvQQ7",
+      "createdAt": 1740162405903,
+      "id": "FMJeqHrIR8FGPKTWuc2ab"
+    },
+    {
+      "message": "This is very good",
+      "author": "U9b9Y-1cqy3xwM1bXvQQ7",
+      "createdAt": 1740165300578,
+      "id": "3wRz5AYlIGyMaSNWcPxxn"
+    },
+    {
+      "message": "This is very good",
+      "author": "U9b9Y-1cqy3xwM1bXvQQ7",
+      "createdAt": 1740165334375,
+      "id": "dZZmTKIqWWuk3EM0XGnF9"
+    },
+    {
+      "message": "This is very good",
+      "author": "U9b9Y-1cqy3xwM1bXvQQ7",
+      "createdAt": 1740165366695,
+      "id": "UTy0Y458NPfBYghGGc3J_"
+    },
+    {
+      "message": "This is very good",
+      "author": "U9b9Y-1cqy3xwM1bXvQQ7",
+      "createdAt": 1740165391461,
+      "id": "s7tItk__3DsDyj4vKRKdf"
+    },
+    {
+      "message": "This is very good",
+      "author": "U9b9Y-1cqy3xwM1bXvQQ7",
+      "createdAt": 1740165429540,
+      "id": "QdEJ2U98saIgwQV4pJOIp"
+    },
+    {
+      "message": "This is very good",
+      "author": "U9b9Y-1cqy3xwM1bXvQQ7",
+      "createdAt": 1740165450295,
+      "id": "KCRoy7rX9-zAdzJhfEgLH"
+    },
+    {
+      "message": "This is very good",
+      "author": "U9b9Y-1cqy3xwM1bXvQQ7",
+      "createdAt": 1740165495530,
+      "id": "X3S0n_hd6Zb300kCnUMBn"
+    },
+    {
+      "message": "This is very good",
+      "author": "U9b9Y-1cqy3xwM1bXvQQ7",
+      "createdAt": 1740165552117,
+      "id": "AqfGhahxE2XwowV1ICZHy"
+    },
+    {
+      "message": "This is very good",
+      "author": "U9b9Y-1cqy3xwM1bXvQQ7",
+      "createdAt": 1740165579152,
+      "id": "EoGRJhQ74UvINb5g2j-A7"
+    },
+    {
+      "message": "This is very good",
+      "author": "U9b9Y-1cqy3xwM1bXvQQ7",
+      "createdAt": 1740165652037,
+      "id": "PBUIgnyLC7HCWpJrc_JGE"
+    },
+    {
+      "message": "This is very good",
+      "author": "U9b9Y-1cqy3xwM1bXvQQ7",
+      "createdAt": 1740165658212,
+      "id": "aP9bw7k0Vpu42IAZwMA15"
+    },
+    {
+      "message": "This is very good",
+      "author": "U9b9Y-1cqy3xwM1bXvQQ7",
+      "createdAt": 1740165762665,
+      "id": "bbJKXNzwo_1LoycUO2inx"
+    },
+    {
+      "message": "This is very good",
+      "author": "U9b9Y-1cqy3xwM1bXvQQ7",
+      "createdAt": 1740165866169,
+      "id": "9BcXtlBY5DYFiwOKx1fsF"
+    },
+    {
+      "message": "This is very good",
+      "author": "U9b9Y-1cqy3xwM1bXvQQ7",
+      "createdAt": 1740167389453,
+      "id": "d8T-hRKa9ZqWcMAA-hEYE"
+    },
+    {
+      "message": "This is very good",
+      "author": "tfm6zj39Vr3XZEOeixgV7",
+      "createdAt": 1740167877105,
+      "id": "R_w8xtCPNgzA-0z2CXGEy"
+    },
+    {
+      "message": "This is very good",
+      "author": "tfm6zj39Vr3XZEOeixgV7",
+      "createdAt": 1740167962865,
+      "id": "sYw_pDyrsATio2Z2w0YtY"
+    }
+  ],
   "settings": []
 }
